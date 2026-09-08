@@ -1,6 +1,9 @@
+-- ══════════════════════════════════════════
 -- Pre-entrega: Consultas SQL de negocio
-
 -- Título: Extrayendo métricas clave con SQL
+-- Autor: Marina Mónaco
+-- Fecha: 08-09-26
+-- ══════════════════════════════════════════
 
 USE Ventas_Tech_DB; -- Equivalente en PostgreSQL: no requiere USE, se selecciona la base al conectar
 
